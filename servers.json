@@ -1,0 +1,29 @@
+{
+  "servers": [
+    {
+      "hostname": "asdflkajsfkjabc",
+      "ipaddress": "162.12.198.170",
+      "id": 1
+    },
+    {
+      "hostname": "wqoiezxkcvenXW",
+      "ipaddress": "162.12.192.199",
+      "id": 2
+    },
+    {
+      "hostname": "kjnsadiuwer",
+      "ipaddress": "162.12.192.17",
+      "id": 3
+    },
+    {
+      "hostname": "wqoiezxkcven",
+      "ipaddress": "162.12.192.18",
+      "id": 4
+    },
+    {
+      "hostname": "asasdasdasd",
+      "ipaddress": "120.132.166.111",
+      "id": 5
+    }
+  ]
+}
