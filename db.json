@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "servers": [
+    {
+      "hostname": "asdflkajsfkjabc",
+      "ipaddress": "162.12.198.170",
+      "id": 1
+    },
+    {
+      "hostname": "wqoiezxkcvenXW",
+      "ipaddress": "162.12.192.199",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "hostname": "kjnsadiuwer",
+      "ipaddress": "162.12.192.17"
+    },
+    {
+      "hostname": "wqoiezxkcven",
+      "ipaddress": "162.12.192.18",
+      "id": 4
+    },
+    {
+      "hostname": "asasdasdasd",
+      "ipaddress": "120.132.166.111",
+      "id": 5
+    }
+  ]
 }
