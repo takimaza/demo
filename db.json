@@ -1,34 +1,148 @@
 {
-  "servers": [
-    {
-      "hostname": "asdflkajsfkjabc",
-      "ipaddress": "162.12.198.170",
-      "id": 1
-    },
-    {
-      "hostname": "wqoiezxkcvenXW",
-      "ipaddress": "162.12.192.199",
-      "id": 2
-    },
-    {
-      "hostname": "kjnsadiuwer",
-      "ipaddress": "162.12.192.17",
-      "id": 3
-    },
-    {
-      "hostname": "wqoiezxkcven",
-      "ipaddress": "162.12.192.18",
-      "id": 4
-    },
-    {
-      "hostname": "asasdasdasd",
-      "ipaddress": "120.132.166.111",
-      "id": 5
-    },
-    {
-      "hostname": "ppdfpgpdfpdfg",
-      "ipaddress": "120.132.166.112",
-      "id": 6
-    }
-  ]
+   "appservers": [
+      {
+         "hostname": "abtdafwaptzm360",
+         "ipaddress": "10.207.176.156",
+         "id": 1
+      },
+      {
+         "hostname": "abtdafwaptzp1y0",
+         "ipaddress": "10.207.176.157",
+         "id": 2
+      },
+      {
+         "hostname": "abtdafwaptzotw0",
+         "ipaddress": "10.207.176.162",
+         "id": 3
+      },
+      {
+         "hostname": "abtdafwaptzbwq0",
+         "ipaddress": "10.207.178.166",
+         "id": 4
+      },
+      {
+         "hostname": "abtdafwaptztdz0",
+         "ipaddress": "10.207.178.167",
+         "id": 5
+      },
+      {
+         "hostname": "abtdafwaptz4j10",
+         "ipaddress": "10.207.178.168",
+         "id": 6
+      },
+      {
+         "hostname": "abtdafwaptzccn0",
+         "ipaddress": "10.207.176.173",
+         "id": 7
+      },
+      {
+         "hostname": "abtdafwaptzbup0",
+         "ipaddress": "10.207.178.169",
+         "id": 8
+      },
+      {
+         "hostname": "abtdafwaptzldu0",
+         "ipaddress": "10.207.178.170",
+         "id": 9
+      },
+      {
+         "hostname": "abtdafwaptzk120",
+         "ipaddress": "10.207.178.171",
+         "id": 10
+      }
+   ],
+    "webservers": [
+      {
+         "hostname": "abtdafwaptzuw40",
+         "ipaddress": "10.207.176.174",
+         "id": 1
+      },
+      {
+         "hostname": "abtdafwaptzkck0",
+         "ipaddress": "10.207.178.175",
+         "id": 2
+      },
+      {
+         "hostname": "abtdafwaptz4550",
+         "ipaddress": "10.207.176.176",
+         "id": 3
+      },
+      {
+         "hostname": "abtdafwaptz9ov0",
+         "ipaddress": "10.207.176.177",
+         "id": 4
+      },
+      {
+         "hostname": "abtdafwaptz9k10",
+         "ipaddress": "10.207.176.178",
+         "id": 5
+      },
+      {
+         "hostname": "abtdafwaptz0va0",
+         "ipaddress": "10.207.178.189",
+         "id": 6
+      },
+      {
+         "hostname": "abtdafwwbtzu800",
+         "ipaddress": "10.207.176.163",
+         "id": 7
+      },
+      {
+         "hostname": "abtdafwwbtzgz70",
+         "ipaddress": "10.207.176.170",
+         "id": 8
+      },
+      {
+         "hostname": "abtdafwwbtzq7h0",
+         "ipaddress": "10.207.176.171",
+         "id": 9
+      },
+      {
+         "hostname": "abtdafwwbtzeqp0",
+         "ipaddress": "10.207.178.164",
+         "id": 10
+      }
+    ],
+    "dbservers": [
+      {
+         "hostname": "abtdafwwbtz8nd0",
+         "ipaddress": "10.207.176.175",
+         "id": 1
+      },
+      {
+         "hostname": "abtdafwwbtz02s0",
+         "ipaddress": "10.207.178.176",
+         "id": 2
+      },
+      {
+         "hostname": "abtdafwwbtzy1d0",
+         "ipaddress": "10.207.178.181",
+         "id": 3
+      },
+      {
+         "hostname": "abtdafwwbtzmd40",
+         "ipaddress": "10.207.178.182",
+         "id": 4
+      },
+      {
+         "hostname": "abtdafwwbtzx210",
+         "ipaddress": "10.207.178.183",
+         "id": 5
+      },
+      {
+         "hostname": "abtdafwwbtzaer0",
+         "ipaddress": "10.207.178.184",
+         "id": 6
+      },
+      {
+         "hostname": "abtdafwwbtze3x0",
+         "ipaddress": "10.207.178.185",
+         "id": 7
+      },
+      {
+         "hostname": "abtdafwwbtzdjg0",
+         "ipaddress": "10.207.178.186",
+         "id": 8
+      }
+   ]
 }
